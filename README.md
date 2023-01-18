@@ -4,6 +4,7 @@ The game will keep money and bets until one of them runs out of money.
 
 ## System Requirements Summary
 
+* Java Version 8 Update 311 or later
 * Processor: 1.1 GHz or faster with 2 or more cores
 * RAM: 4Gb
 * Storage: 70 Gb
