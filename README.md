@@ -1,5 +1,5 @@
 # BlackJack
-It is a single-player game where the computer is the dealer.
+It is a single-player card game where the computer is the dealer.
 The game will keep money and bets until one of them runs out of money.
 
 ## System Requirements Summary
